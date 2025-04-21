@@ -1,0 +1,10 @@
+xformers
+torchaudio
+torch==2.2.0
+tensorboard==2.16.2
+phonemizer==3.2.1
+datasets==3.4.1
+torchmetrics
+huggingface_hub==0.30.2
+transformers
+accelerate
